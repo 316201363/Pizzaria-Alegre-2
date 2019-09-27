@@ -6,5 +6,3 @@ Telefone:
 Cliente:
 CPF:
 e-mail:
-
-Aceita participar de promoções: ? ()Sim ()Não
